@@ -1,0 +1,137 @@
+body{
+  background-color: powderblue;
+}
+
+.App {
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+.front_img {
+  border: 2px solid #065093;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  width:1080px;
+  max-height: 340px;
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.body_box{
+  /* border: 2px solid black; */
+  display: grid;
+  grid-template-columns: 25% 1fr;
+  text-align: center;
+  margin: 20px auto;
+  width:1080px;
+  min-height: 1000px;
+  max-height: none;
+}
+
+.left_box{
+
+  margin-right: 10px;
+
+}
+
+.right_box{
+  margin-left: 10px;
+}
+
+.notice{
+  background-color: #f8f8f8;
+  padding: 11px 50px 10px 24px;
+  margin-bottom: 16px;
+  text-align: left;
+}
+
+.board_box{
+  border: 4px solid #eeeeee;
+  min-height: 95%;
+}
+
+.user_info{
+  border-top: 2px solid #065093;
+  height: 300px;
+}
+
+.write_button{
+  width: 100%;
+  display: block;
+  margin-bottom: 8px;
+  padding: 11px 0px 11px;
+  font-size: 15px;
+  line-height: 16px;
+  background-color: #065093;
+  color: #fff;
+}
+
+.search_box{
+
+  text-align: center;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 83% 1fr;
+  height: 30px;
+  margin-bottom: 8px;
+}
+
+.search_box index{
+  margin: 0px;
+}
+.search_box button{
+  margin: 0px;
+  background-color: #03c75a;
+  color: #fff;
+}
+
+
+.menu_box{
+  text-align: left;
+  padding: 10px;
+  border-top: 2px solid #065093;
+  border-bottom: 2px solid #065093;
+  min-height: 500px;
+  font-size: 16px;
+  color: black;
+}
+
+.menu_box a{
+  display:block;
+  margin-top: 10px;
+}
+
+
+.post_list{
+  text-align: center;
+  display: grid;
+  grid-template-columns: 15% 50% 15% 12% 8%;
+  font-size: 18px;
+
+  white-space: nowrap;
+  
+  border-bottom: 2px solid #f2f2f2;
+  padding: 10px 0px;
+  line-height: 24px;
+}
+
+.prevent-overflow{
+  overflow:hidden;
+  max-width: 100%;
+  width: 100%;
+  /* box-sizing: border-box; */
+}
+
+.board_name{
+  border-bottom: 2px solid #e5e5e5;
+  margin: 1em 30px;
+  padding-bottom: 15px;
+  color: #065093;
+}

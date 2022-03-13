@@ -1,0 +1,107 @@
+
+.frame{
+    text-align: center;
+}
+
+.body_box{
+    width:1080px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.menu_list{
+    display: block;
+    width: 1080px;
+    background-color: #065093;
+    color: white;
+    padding: 16px 28px;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+.guide_and_button{
+    display: grid;
+    grid-template-columns: 95% 1fr;
+}
+
+.guide{
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px 0px;
+}
+
+.post_button{
+    height:37px;
+    width: 50px;
+    margin: auto;
+    background-color: #e0f8eb;
+    color: #009f47;
+    border: solid 2px #e0f8eb;
+    border-radius: 5px;
+}
+
+.option_box{
+    display: grid;
+    grid-template-columns: 80% 1fr;
+    gap: 10px;
+
+    border-top: 2px solid #323232;
+    padding-top: 10px;
+}
+
+.input_box{
+    text-align: left;
+    display: block;
+
+}
+
+.select_board_box{
+    border: 2px solid #ebecef;
+    outline: none;
+    font-size: 20px;
+    padding: 15px 10px 10px 10px;
+    width: 100%;
+}
+
+.input_title_box{
+    border: 2px solid #ebecef;
+    outline: none;
+    font-size: 20px;
+    padding: 15px 10px 10px 10px;
+    width: 100%;
+    margin-top: 10px;
+    box-sizing : border-box;
+}
+
+.tools_box{
+    font-size: large;
+    border-bottom: 2px solid #ebecef;
+    min-height: 70px;
+    background-color: #fbfbfb;
+    padding: 15px;
+    text-align: left;
+}
+
+.paper{
+    width: 100%;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    min-height: 600px;
+    padding: 50px 30px;
+    font-size: 20px;
+}
+
+.tools_and_paper{
+    border: 2px solid #ebecef;
+    margin-top: 10px;
+}
+
+
+
+
+.additional_option_box{
+    border: 2px solid black;
+}

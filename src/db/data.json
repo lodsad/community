@@ -1,0 +1,86 @@
+{
+  "boards": [
+    {
+      "id": 1,
+      "name": "공지사항",
+      "authority": "admin"
+    },
+    {
+      "id": 2,
+      "name": "자유게시판",
+      "authority": "user"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "board": "공지사항",
+      "title": "json-server",
+      "author": "typicode",
+      "content": "This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. This is test text. ",
+      "date": "2022.03.07",
+      "views": 0
+    },
+    {
+      "board": "자유게시판",
+      "title": "TEST",
+      "author": "Unknown",
+      "content": "테스트 텍스트",
+      "date": "2022.03.07",
+      "views": 0,
+      "id": 2
+    },
+    {
+      "board": "자유게시판",
+      "title": "tttt",
+      "author": "Unknown",
+      "content": "tttt",
+      "date": "2022.03.07",
+      "views": 0,
+      "id": 5
+    },
+    {
+      "board": "자유게시판",
+      "title": "안녕하세요.",
+      "author": "Unknown",
+      "content": "안녕하세요~~ 반갑습니다!",
+      "date": "2022.03.07",
+      "views": 0,
+      "id": 6
+    },
+    {
+      "board": "자유게시판",
+      "title": "ㅇㄴㅁㅇㄴㅁ",
+      "author": "Unknown",
+      "content": "ㅇㄴㅁㅇㄴㅁㅇㄴㅁ",
+      "date": "2022.03.07",
+      "views": 0,
+      "id": 7
+    },
+    {
+      "board": "자유게시판",
+      "title": "주식 떡상해라",
+      "author": "Unknown",
+      "content": "떡상해라",
+      "date": "2022.03.07",
+      "views": 0,
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "name": "아므고나",
+      "password": "아므고나_admin"
+    }
+  ]
+}

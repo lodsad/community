@@ -1,0 +1,49 @@
+.all_area{
+    text-align: left;
+    margin: 30px;
+}
+
+.top{
+    padding-bottom: 15px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+}
+
+.board{
+    color: #03c75a;
+    font-size: 16px;
+}
+
+.title{
+    font-size: 35px;
+    padding: 5px;
+}
+
+.writer_info{
+    display: grid;
+    grid-template-columns: 7% 83% 10%;
+}
+
+.author{
+    font-weight: bold;
+}
+
+.date{
+    font-size: 14px;
+    color: gray;
+}
+
+.content{
+    font-size: 20px;
+    min-height: 600px;
+}
+
+.bottom{
+    margin: 40px 0px 0px;
+}
+
+.buttons{
+    border-top: 1px solid gray;
+    padding-top: 16px;
+    margin-top: 16px;
+}
